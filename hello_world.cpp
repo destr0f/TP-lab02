@@ -5,7 +5,7 @@ int main()
 {
 std::string name;
 
-// Fixed bad code style
+// Comment from main branch
 std::cout << "Please enter name: ";
 std::cin >> name;
 
